@@ -1,4 +1,5 @@
 jupyter
 pandas
-# matplotlib # installed with base conda env
+matplotlib 
 seaborn
+sklearn
