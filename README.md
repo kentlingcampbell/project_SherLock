@@ -21,11 +21,11 @@ From a command line within this project directory, type:
 
 ``` jupyter notebook ```
 
-The fitting of the model is performed in the Jupyter notebook, 'SherLock.ipynb'.  A pickled model will be generated and a python script, 'test_pickled_model.py' will perform a faux-predictions using the command
+The fitting of the model is performed in the Jupyter notebook, 'SherLock.ipynb'.  A pickled model will be generated and a python script, 'test_pickled_model.py' will perform a faux-prediction using the command
 
 ``` python test_pickled_model.py ``` 
 
-on the commandline. 
+on the command line. 
 
 Enjoy!
 
