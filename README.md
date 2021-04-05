@@ -15,7 +15,7 @@ pip install -r requirements.txt
 ```
 
 ## Usage
-The Jupyter notebook will walk through the TBD aanlysis or whatever...
+The current state of this project and mini-assignments walks through data-loading, a sample EDA, then a faux-linear regression modeling and pickle'ing.  A standalone python script will then run the pickled model.
 
 From a command line within this project directory, type:
 
@@ -23,9 +23,11 @@ From a command line within this project directory, type:
 jupyter notebook
 ```
 
-Fitting the model
+The fitting of the model is performed in the Jupyter notebook, 'SherLock.ipynb'.  A pickled model will be generated and a python script, 'test_pickled_model.py' will perform a faux-predictions using the command
 
-Test file usage
+``` python test_pickled_model.py ``` on the commandline. 
+
+Enjoy!
 
 
 
