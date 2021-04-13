@@ -14,6 +14,7 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install require
 pip install -r requirements.txt
 ```
 
+# CLASS LAB work below......
 ## Usage
 The current state of this project and mini-assignments walks through data-loading, a sample EDA, then a faux-linear regression modeling and pickle'ing.  A standalone python script will then run the pickled model.
 
