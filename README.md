@@ -27,7 +27,11 @@ The fitting of the model is performed in the Jupyter notebook, 'SherLock.ipynb'.
 
 on the command line. 
 
+## Web shenagans with Flask
+
+Flask will be used to (localy) share the fun.  
+
+## Usage:
+Type 'FLASK_APP=app.py' on the terminal commandline within the activated python environment.  Then 'flask run'.  Open browser and go to flask address/port, something like 'http://127.0.0.1:5000'
+
 Enjoy!
-
-
-
