@@ -32,6 +32,8 @@ on the command line.
 Flask will be used to (localy) share the fun.  
 
 ## Usage:
-Type 'FLASK_APP=app.py' on the terminal commandline within the activated python environment.  Then 'flask run'.  Open browser and go to flask address/port, something like 'http://127.0.0.1:5000'
+Type 'FLASK_APP=app.py' and 'FLASK_ENV=development' on the terminal commandline within the activated python environment.  Then 'flask run'.  Open browser and go to flask address/port, something like 'http://127.0.0.1:5000'  To run the prediction with JSON data, type 'python test_flask.py'.  The results should like: 
+```[[970.4839983746325], [968.4961539698425]]```
+
 
 Enjoy!
